@@ -18,7 +18,11 @@ This project analyses the performance of three stock portfolios using financial 
 - Portfolio composition significantly impacted performance
 
 ## Files
-- analysis/portfolio_analysis.xlsx
-- analysis/portfolio_comparison.xlsx
-- reports/report_1.pdf
-- reports/report_2.pdf
+
+### Analysis
+- [Portfolio Optimisation Analysis](analysis/portfolio_optimisation_analysis.xlsx)
+- [Lognormal Model Simulation](analysis/lognormal_model_simulation.xlsx)
+
+### Reports
+- [Portfolio Analysis Report](reports/portfolio_analysis_report.pdf)
+- [Lognormal Model Report](reports/lognormal_model_report.pdf)
