@@ -41,6 +41,8 @@ The analysis focuses on understanding return behaviour, quantifying risk, and ev
 - Analysed distribution properties including skewness and kurtosis  
 
 ---
+## Visualisation
+![Efficient Frontier](outputs/efficient_frontier.png)
 
 ## Key Results
 
