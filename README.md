@@ -80,8 +80,8 @@ The analysis focuses on understanding return behaviour, quantifying risk, and ev
 - [Lognormal Model Simulation](analysis/lognormal_model_simulation.xlsx)  
 
 ### Reports
-- [Portfolio Analysis Report](reports/portfolio_analysis_report.pdf)  
-- [Lognormal Model Report](reports/lognormal_model_report.pdf)  
+- [Portfolio Analysis Report](reports/portfolio_analysis_report.pdf)
+- [Lognormal Model Report](reports/lognormal_model_report.pdf)
 
 ---
 
